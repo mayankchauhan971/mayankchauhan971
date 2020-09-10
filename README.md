@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://mayankchauhan971.github.io/](https://mayankchauhan971.github.io/)
+- 👨‍💻 All of my projects are available on GitHub
 
 - 💬 Ask me about **Ruby on Rails, JavaScript, ReactJS and DSA**
 
