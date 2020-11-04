@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mayank Chauhan</h1>
 <h3 align="center">A passionate web developer from India, with experience in both backend and frontend development also helping NGO's go digital and increase their online presence.</h3>
 
-- 🔭 I worked with **InterviewBit**
+- 🔭 I interned with **InterviewBit and Yoddhas**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning and working on **Generative Adversarial Networks**
 
 - 👨‍💻 All of my projects are available on GitHub
 
