@@ -18,5 +18,5 @@
 <p align="center">
 <a href="https://linkedin.com/in/mayankchauhan971" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mayankchauhan971" height="30" width="30" /></a>
 <a href="https://instagram.com/mayankchauhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mayankchauhan" height="30" width="30" /></a>
-<a href="https://www.leetcode.com/mayankchauhan971" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="mayankchauhan971" height="30" width="30" /></a>
+<a href="https://www.leetcode.com/mayach971" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="mayach971" height="30" width="30" /></a>
 </p>
